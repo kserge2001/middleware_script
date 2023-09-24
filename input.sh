@@ -8,7 +8,7 @@ if  [ $c = yes ]
  then
   echo " Good job $NAME !! keep enjoying and change your life!!"
 else
- echo "thats not good $NAME Please check the website immediatly and enroll ( utrains.org)"
+ echo "That is not a good idea  $NAME Please check the training  website immediatly and enroll ( utrains.org)"
 
 fi 
 
