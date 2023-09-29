@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .bash_history
 
 .bash_logout
@@ -11,3 +12,10 @@
 .ssh/
 
 .tcshrc
+=======
+class/*
+class2/*
+cup/*
+coffee/*
+class3/*
+>>>>>>> 183231b3cf1e1f5c93886941b2ab0fbae32a16bb
